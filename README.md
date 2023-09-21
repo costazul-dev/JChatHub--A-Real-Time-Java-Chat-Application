@@ -1,4 +1,4 @@
-# Java Chat Server and Client
+# JChatHub: A Real-Time Java Chat Application
 
 A concurrent chat application built with Java, showcasing server-client real-time communication, proper handling of multiple clients, and simple protocol design.
 
@@ -65,7 +65,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## The ChatGPT Code That is Commented Out:
 
 The plan is to create a client that calls the OpenAI API (ChatGPT), and have a friendly bot you can talk to whenever. I am still developing that aspect of the project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
